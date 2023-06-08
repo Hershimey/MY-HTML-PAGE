@@ -1,2 +1,2 @@
 ﻿# MY-HTML-PAGE 
-Click the link to visit my HTML Page: https://github.com/Hershimey/MY-HTML-PAGE/blob/main/index.html
+Click the link to visit my HTML Page: https://github.com/Hershimey/MY-HTML-PAGE/index.html
